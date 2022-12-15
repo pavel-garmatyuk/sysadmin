@@ -1,1 +1,1 @@
-# sysadmin
+# Курс сисадмина Linux
