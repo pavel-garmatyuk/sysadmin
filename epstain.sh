@@ -1,4 +1,5 @@
-#!/bin/bash #Как видите, здесь располагается шебанг, о котором мы уже упоминали.
+#!/bin/bash 
+#Как видите, здесь располагается шебанг, о котором мы уже упоминали.
 # Author: Alexander Epstein https://github.com/alexanderepstein 
 
 currentVersion="1.13.2"     #
